@@ -7,7 +7,7 @@ SS2019    ADLR    IN2349
  
 @section[#:style 'unnumbered]{Content}
 @itemlist[#:style 'ordered
-          @item{@(hyperlink "./adlr-1-introduction.pdf" "Introduction & Recap")}
+          @item{@(hyperlink "./adlr-1-introduction.pdf" "Introduction"), @(hyperlink "./adlr-1-recap-ml-dl.pdf" "Recap ML & DL")}
           @item{@(hyperlink "./2018-lecture-2.pdf" "Advanced Network Architectures")}
           @item{@(hyperlink "./2018-lecture-3.pdf" "Hyper-Parameter & Architecture Search")}
           @item{@(hyperlink "./2018-lecture-4.pdf" "Generalization & Robustness: Adversarial Samples & Training")}
@@ -36,6 +36,6 @@ Lecture slides will be added shortly before the lecture. The @bold{password} for
 
 @section[#:style 'unnumbered]{Exam}
 @itemlist[
-          @item{Hints for the exam have been given in lecture 9 (look in the slides)}
-          @item{To get an idea of what style of questions to expect you can here find the  @(hyperlink "./introduction-exam.pdf" "exam from last year's introductory (!!!) lecture on Deep Learning in Robotics"). So, the content of the exam of this year's advanced (!!!) lecture will differ, but the style  will be similar.}]
+          @item{Hints for the exam will be given in one of the last lectures (look in the slides)}
+          @item{To get an idea of what style of questions to expect, you can find here the  @(hyperlink "./introduction-exam.pdf" "exam from an introductory (!!!) lecture on Deep Learning in Robotics") I once gave. So, the content of the exam of this year's advanced (!!!) lecture will differ, but the style  will be similar.}]
 
