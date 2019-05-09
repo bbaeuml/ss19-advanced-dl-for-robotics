@@ -8,7 +8,7 @@ SS2019    ADLR    IN2349
 @section[#:style 'unnumbered]{Content}
 @itemlist[#:style 'ordered
           @item{@(hyperlink "./adlr-1-introduction.pdf" "Introduction"), @(hyperlink "./adlr-1-recap-ml-dl.pdf" "Recap ML & DL")}
-          @item{@(hyperlink "./2018-lecture-2.pdf" "Advanced Network Architectures")}
+          @item{@(hyperlink "./adlr-2-advanced-networks.pdf" "Advanced Network Architectures")}
           @item{@(hyperlink "./2018-lecture-3.pdf" "Hyper-Parameter & Architecture Search")}
           @item{@(hyperlink "./2018-lecture-4.pdf" "Generalization & Robustness: Adversarial Samples & Training")}
           @item{@(hyperlink "./2018-lecture-5.pdf" "Bayesian Deep Learning")}         
