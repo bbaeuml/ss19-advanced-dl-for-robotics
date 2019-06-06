@@ -10,8 +10,8 @@ SS2019    ADLR    IN2349
           @item{@(hyperlink "./adlr-1-introduction.pdf" "Introduction"), @(hyperlink "./adlr-1-recap-ml-dl.pdf" "Recap ML & DL")}
           @item{@(hyperlink "./adlr-2-advanced-networks.pdf" "Advanced Network Architectures")}
           @item{@(hyperlink "./adlr-3-meta-learning.pdf" "Hyperparameter & Architecture Search")}
-          @item{@(hyperlink "./adlr-4-adversarial.pdf" "Adversarial Samples & Training")}
-          @item{@(hyperlink "./2018-lecture-5.pdf" "Bayesian Deep Learning")}         
+          @item{@(hyperlink "./adlr-4-adversarial.pdf" "Adversarial Attacks & Defenses")}
+          @item{@(hyperlink "./adlr-5-bayesian.pdf" "Bayesian Deep Learning")}         
           @item{@(hyperlink "./2018-lecture-6.pdf" "Generative Models: GANs & Variational Autoencoders")}        
           @item{@(hyperlink "./2018-lecture-7.pdf" "Data Efficient Learning: Transfer & Semi-Supervised Learning")}
           @item{@(hyperlink "./2018-lecture-8.pdf" "Deep Reinforcement Learning I")}
