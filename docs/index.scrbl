@@ -13,7 +13,7 @@ SS2019    ADLR    IN2349
           @item{@(hyperlink "./adlr-4-adversarial.pdf" "Adversarial Attacks & Defenses")}
           @item{@(hyperlink "./adlr-5-bayesian.pdf" "Bayesian Deep Learning")}         
           @item{@(hyperlink "./adlr-6-generative.pdf" "Generative Models: VAEs & GANs")}        
-          @item{@(hyperlink "./2018-lecture-7.pdf" "Data Efficient Learning: Transfer & Semi-Supervised Learning")}
+          @item{@(hyperlink "./adlr-7-efficient.pdf" "Data Efficient Learning: Transfer, Semi-Supervised & Active Learning")}
           @item{@(hyperlink "./2018-lecture-8.pdf" "Deep Reinforcement Learning I")}
           @item{@(hyperlink "./2018-lecture-9.pdf" "Deep Reinforcement Learning II")}
           @item{@(hyperlink "./2018-lecture-10.pdf" "Deep Reinforcement Learning III")}
