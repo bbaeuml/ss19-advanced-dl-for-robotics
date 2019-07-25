@@ -15,9 +15,10 @@ SS2019    ADLR    IN2349
           @item{@(hyperlink "./adlr-6-generative.pdf" "Generative Models: VAEs & GANs")}        
           @item{@(hyperlink "./adlr-7-efficient.pdf" "Data Efficient Learning: Transfer, Semi-Supervised & Active Learning")}
           @item{@(hyperlink "./adlr-8-drl-i.pdf" "Deep Reinforcement Learning I")}
-          @item{@(hyperlink "./adlr-9-drl-ii.pdf" "Deep Reinforcement Learning II")}
+          @item{@(hyperlink "./adlr-9-and-10-drl-ii-and-iii.pdf" "Deep Reinforcement Learning II")}
+          @item{@(hyperlink "./adlr-9-and-10-drl-ii-and-iii.pdf" "Deep Reinforcement Learning III")}
           ;;@item{@(hyperlink "./2018-lecture-11.pdf" "Extra Date: Questions & Answers")}
-          @item{@(hyperlink "./adlr-10-drl-iii.pdf" "Deep Reinforcement Learning III")}]
+         ]
 
 Lecture slides will be added shortly before the lecture. The @bold{password} for the slides is communicated in the lecture.
 
